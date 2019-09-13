@@ -1,4 +1,4 @@
-# VS Live 2019 Resources for the App Modernization talk
+# App Modernization on Microsoft Azure
 
 [Azure Tips and Tricks](http://azuredev.tips)
 
